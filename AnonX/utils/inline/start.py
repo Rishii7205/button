@@ -43,17 +43,11 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="𝐂σɱɱαɳԃ𝐒", callback_data="settings_back_helper"
-            ),
-            InlineKeyboardButton(
-                text="𝐌αιитαιиє𝐑[ʀᴏᴘʀɪsʜ]💓", user_id=OWNER
             )
         ],
         [
             InlineKeyboardButton(
-                text="𝐆ɾσυ𝐏", url=config.SUPPORT_GROUP
-            ),
-            InlineKeyboardButton(
-                text="𝐔ρ∂αтє𝐒", url=f"https://t.me/jam_music_updates"
+                text="𝐌αιитαιиє𝐑[ʀᴏᴘʀɪsʜ]💓", user_id=OWNER
             )
         ],
         [
