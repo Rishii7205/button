@@ -62,4 +62,4 @@ OWNER_COMMAND : ["owner", "rishii", "repo"]
 ID_COMMAND : ["id"]
 SHAYRI_COMMAND : ["shayri", "love", "gf", "bf"]
 TAGALL_COMMAND : ["#all", "#tagall", "#tag", ".tagmember", "@ᴀʟʟ"]
-
+HTAG_COMMAND : ["htag", "hstag"]
